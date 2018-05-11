@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <FYP_Shipment>
+            <codePool>local</codePool>
+            <active>true</active>
+        <FYP_Shipment>
+    </modules>
+</config>
