@@ -7,9 +7,9 @@
     </modules>
     <global>
         <models>
-            <fypshipment>
+            <fyp_shipment>
                 <class>FYP_Shipment_Model</class>
-            </fypshipment>
+            </fyp_shipment>
         </models>
         <events>
             <sales_order_shipment_track_save_after>
