@@ -4,6 +4,6 @@
         <FYP_Shipment>
             <codePool>local</codePool>
             <active>true</active>
-        <FYP_Shipment>
+        </FYP_Shipment>
     </modules>
 </config>
